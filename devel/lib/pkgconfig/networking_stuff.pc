@@ -1,0 +1,8 @@
+prefix=/home/joey/catkin_ws/devel
+
+Name: networking_stuff
+Description: Description of networking_stuff
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

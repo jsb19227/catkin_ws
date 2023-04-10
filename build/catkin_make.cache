@@ -1,0 +1,2 @@
+base_station_publishers:networking_stuff
+-DCATKIN_DEVEL_PREFIX=/home/joey/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/joey/catkin_ws/install -G Unix Makefiles
