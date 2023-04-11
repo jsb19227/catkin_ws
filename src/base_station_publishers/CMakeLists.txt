@@ -176,6 +176,7 @@ catkin_install_python(PROGRAMS
   src/mapDataPublisherNode.py
   src/basestation_comms.py
   src/roverStatusPublisher.py
+  src/reactiveCameraPublisher.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 
